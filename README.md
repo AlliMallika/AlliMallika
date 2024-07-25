@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mallika Alli</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Angular & DSA**
+- 🌱 I have good knowledge in **Asp.Net, C#**
 
-- 💬 Ask me about **Angular, DSA,HTML,CSS,JavaScript,Bootstrap**
+- 💬 Ask me about **Asp.Net,C#,HTML,CSS,JavaScript,Bootstrap**
 
 - 📫 How to reach me **allimallika19@gmail.com**
 
